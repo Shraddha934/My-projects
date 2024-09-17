@@ -1,0 +1,14 @@
+.welcome{
+  margin-top: 100px;
+}
+
+.nav-link:hover{
+ color:rgb(185, 179, 179);
+}
+
+.card {
+  margin: 1rem;
+}
+.card-img-top {
+  object-fit: cover;
+}
